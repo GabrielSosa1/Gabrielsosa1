@@ -1,4 +1,5 @@
 👋 Hola, soy Gabriel sosa
+
 Actualmente me encuentro estudiando programacion frontend
 <!--
 **GabrielSosa1/Gabrielsosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
